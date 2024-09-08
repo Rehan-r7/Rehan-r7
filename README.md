@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Object Oriented Programming languages
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me rehaankhanx142@gmail.com
+- 📫 How to reach me rehankhanx1221@gmail.com
 
 <!---
 Rehan-r7/Rehan-r7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
